@@ -22,6 +22,7 @@ Table of Contents :
 
 
 Getting Started :
+
 To get started with the Power BI project, follow these steps:
 
 Download the csv file.
@@ -35,16 +36,19 @@ Data Cleaning :
 The dataset has undergone basic data cleaning to ensure accuracy and consistency. Cleaning steps include correcting the column headers,removing/filling null values if required.
 
 Visual Segmentation :
+
 • Region, Country, and Market by Sales:
 
 o Used Maps to visualize sales across different Regions and Country and Used Donut chart to visalize the Market by Sales
 
 Shipping Analysis :
+
 • Shipping Percentage by Ship Mode:
 
 o Used Pie Chart to visualise the Shipping cost by Ship mode
 
 Sales Visualizations :
+
 • Sales by Country (Map):
 
 o Use the map visualization to visually represent sales across different Country.
@@ -65,7 +69,8 @@ o Visualize sales distribution across different states using the map.
 
 o Understand sales performance by market through the stacked bar chart.
 
-Tables
+Tables :
+
 • Tables for Detailed Information:
 
 o Supporting tables have been created for each visualization.
