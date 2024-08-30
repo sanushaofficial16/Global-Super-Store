@@ -20,7 +20,6 @@ Table of Contents :
 
 • Tables
 
-• Contributing
 
 Getting Started :
 To get started with the Power BI project, follow these steps:
