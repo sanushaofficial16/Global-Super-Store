@@ -1,6 +1,6 @@
 # Global-Super-Store
 
-Global Superstore dashboard
+Global Superstore Dashboard
 
 Overview
 
