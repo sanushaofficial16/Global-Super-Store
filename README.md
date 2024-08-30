@@ -32,6 +32,7 @@ Open the file using Power BI Desktop.
 Explore the various visualizations and tables to gain insights into sales transactions.
 
 Data Cleaning
+
 The dataset has undergone basic data cleaning to ensure accuracy and consistency. Cleaning steps include correcting the column headers,removing/filling null values if required.
 
 Visual Segmentation
